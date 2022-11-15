@@ -1,0 +1,3 @@
+function bbb(){
+    return "bbb";
+}

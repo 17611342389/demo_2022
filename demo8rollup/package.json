@@ -1,0 +1,19 @@
+{
+  "name": "demo8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "rollup -i ./src/index.js -o dist/bundle.js -f es",
+    "start1": "rollup -c rollup.config.js",
+    "start2": "rollup -c"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "rollup": "^3.2.2",
+    "rollup-plugin-terser": "^7.0.2"
+  }
+}

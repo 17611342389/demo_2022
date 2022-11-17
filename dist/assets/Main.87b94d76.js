@@ -1,0 +1,1 @@
+import{n as o}from"./index.28d402b9.js";var _=function(){var n=this,e=n.$createElement,r=n._self._c||e;return r("div",[n._v(" main ")])},a=[];const s={},t={};var c=o(s,_,a,!1,i,null,null,null);function i(n){for(let e in t)this[e]=t[e]}var u=function(){return c.exports}();export{u as default};

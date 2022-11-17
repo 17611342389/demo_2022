@@ -9,6 +9,9 @@ export default () =>
 			open: true, //自动打开浏览器
 			port: 1567 //端口号
 		},
+		build: {
+			outDir: './../../dist'
+		  },
 		resolve: {
             // 别名
 			alias: [
